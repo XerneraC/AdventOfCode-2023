@@ -11,7 +11,7 @@ Oi ← Gen @8 "eight"
 Oo ← Gen @9 "nine"
 
 f ← +⊃(+⊃(+⊃(+⊃Oq Ow) Oe)(+⊃Or Ot))(+⊃(+⊃Oz Ou)(+⊃Oi Oo))
-g ← /+×10_1⊏⊃(⊟⊃(⊗0)(-1-⊃(⊗0⇌)(⧻))=0)∘
+g ← /+×10_1⊏⊟⊃(⊗0)(-1-⊃(⊗0⇌)(⧻))=0.
 
 /+[g f "two1nine"
    g f "eightwothree"
